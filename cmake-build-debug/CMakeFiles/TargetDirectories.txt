@@ -1,0 +1,3 @@
+C:/Users/maxam/OneDrive/Desktop/Assignment for C Programming/cmake-build-debug/CMakeFiles/Assignment_for_C_Programming.dir
+C:/Users/maxam/OneDrive/Desktop/Assignment for C Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxam/OneDrive/Desktop/Assignment for C Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
